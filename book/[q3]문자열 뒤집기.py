@@ -11,7 +11,7 @@ for i in range(len(_str)-1):
     if _str[i] != _str[i+1]:
         diff_cnt += 1
 
-result = int(diff_cnt/2)
+result = int((diff_cnt + 1)/2)
 
 # start_print
 print(result)
