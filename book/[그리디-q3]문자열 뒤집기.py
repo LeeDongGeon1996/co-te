@@ -1,4 +1,5 @@
 # solution: 0인 구간과 1인 구간중 적은 갯수인 구간을 뒤집는다.
+# fix: diff_cnt에서 +1을 한 후, /2 수행.
 # time-complexity: O(N) - 선형시간
 
 # start_input
