@@ -57,7 +57,6 @@ def compare(i, j):
     if max < cnt:
         max = cnt
         
-
 for i in range(N):
     for j in range(N-1):
         #h
